@@ -1,2 +1,2 @@
 # keyflavor
-Administración de información secreta como Password, notas importantes)
+Administración de información secreta como Password y notas importantes
